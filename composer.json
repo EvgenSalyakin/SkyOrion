@@ -1,0 +1,13 @@
+{
+    "name": "evgen/sky-orion",
+    "description": "first description",
+    "authors": [
+        {
+            "name": "Evgen Salyakin",
+            "email": "e.salyakin@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.20"
+    }
+}
